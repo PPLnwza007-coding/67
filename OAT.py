@@ -149,7 +149,7 @@ def run_loop_system():
         print(COLORS[0] + "\n[!] ใส่ตัวเลขดิไอสัส ERROR 0x00000000" + RESET)
 
     print(COLORS[4] + "\n=======================================================" + RESET)
-    input(BOLD + "กด Enter เพื่อออกจากระบบ" + RESET)
+    input(BOLD + "ไปเริ่มใหม่ กากจัด" + RESET)
 
 if __name__ == "__main__":
     run_loop_system()
